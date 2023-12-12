@@ -17,7 +17,7 @@ for i in range(N):
 end = timer()  # Зупинка таймера
 print(f"Час виконання: {(end - start):.3e} с")
 
-# Быстрое сложение
+# Швидке складання
 print("b) Складання за допомогою numpy:")
 start = timer()  # Запуск таймера
 result = a1 + a2
